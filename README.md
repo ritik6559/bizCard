@@ -1,0 +1,1 @@
+Welcome to BizCard, a simple and beginner-friendly business card app written in Kotlin and using jetPack Compose. This app allows users to create and share digital business cards with ease. Whether you're a budding developer looking to explore Kotlin or someone who needs a quick and efficient way to share your contact information, BizCard has got you covered.
